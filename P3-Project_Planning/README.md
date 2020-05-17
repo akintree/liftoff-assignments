@@ -9,11 +9,13 @@ For this assignment, you'll create some initial plans for your project.
 ### Wireframes
 
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+* <a href="https://github.com/akintree/Liftoff-ChooseYourOwnAdventure/blob/master/homeScreenMVP.jpg">Home Screen (MVP)</a>
+* <a href="https://github.com/akintree/Liftoff-ChooseYourOwnAdventure/blob/master/eventualHomeScreen.jpg">Home Screen (Eventual)</a>
+* <a href="https://github.com/akintree/Liftoff-ChooseYourOwnAdventure/blob/master/choiceScreen.jpg">Choice Screen</a>
+* <a href="https://github.com/akintree/Liftoff-ChooseYourOwnAdventure/blob/master/resultScreen.jpg">Results Screen</a>
 
 ### Project Tracker
-
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+https://trello.com/b/BKmzU2zB/choose-your-own-adventure
 
 ### Project Repo Link
-
-Include a link to your project on GitHub.
+https://github.com/akintree/Liftoff-ChooseYourOwnAdventure
